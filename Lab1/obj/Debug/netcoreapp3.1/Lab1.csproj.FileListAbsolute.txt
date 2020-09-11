@@ -1,0 +1,12 @@
+/Users/kfedin/Developer/CSharp/yap3/Lab1/bin/Debug/netcoreapp3.1/Lab1.deps.json
+/Users/kfedin/Developer/CSharp/yap3/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.json
+/Users/kfedin/Developer/CSharp/yap3/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.dev.json
+/Users/kfedin/Developer/CSharp/yap3/Lab1/bin/Debug/netcoreapp3.1/Lab1.dll
+/Users/kfedin/Developer/CSharp/yap3/Lab1/bin/Debug/netcoreapp3.1/Lab1.pdb
+/Users/kfedin/Developer/CSharp/yap3/Lab1/obj/Debug/netcoreapp3.1/Lab1.csprojAssemblyReference.cache
+/Users/kfedin/Developer/CSharp/yap3/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfoInputs.cache
+/Users/kfedin/Developer/CSharp/yap3/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfo.cs
+/Users/kfedin/Developer/CSharp/yap3/Lab1/obj/Debug/netcoreapp3.1/Lab1.csproj.CoreCompileInputs.cache
+/Users/kfedin/Developer/CSharp/yap3/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
+/Users/kfedin/Developer/CSharp/yap3/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
+/Users/kfedin/Developer/CSharp/yap3/Lab1/obj/Debug/netcoreapp3.1/Lab1.genruntimeconfig.cache
